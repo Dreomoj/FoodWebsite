@@ -19,7 +19,7 @@ html{
 }
 .header{
     padding: 1rem 7%;
-    position: absolute;
+    position: fixed;
     left: 0;
     right: 0;
     display: flex;
